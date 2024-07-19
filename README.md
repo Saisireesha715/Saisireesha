@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,javascript,react js,data science,machine learning**
 
 - 📫 How to reach me **saisireesha_tripurari@srmap.edu.in**
 
